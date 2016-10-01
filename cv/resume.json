@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Andrii Bratanin",
+    "label": ".Net Developer",
+    "picture": "",
+    "email": "zmmx-aerial@ukr.net",
+    "phone": "+38(098) 922-37-09",
+    "website": "",
+    "summary": "Self-managed developer who likes to investigate and whose work experience is focused mostly on back-end. I would like to be one of key developers in a strong proactive \"continuous delivery\"-aware development team working on a project that will require the team to make long-term architectural decisions and master new frameworks thus gaining new expertise and rapidly growing professional skills. I am fond of automation and virtualization.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kiev",
+      "countryCode": "UA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "abratanin",
+        "url": "https://ua.linkedin.com/in/abratanin"
+      },
+      {
+        "network": "Skype",
+        "username": "zmmx.aerial",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ciklum",
+      "position": "Senior .Net Developer",
+      "website": "https://www.ciklum.com/",
+      "startDate": "2016-01-15",
+      "endDate": "",
+      "summary": "Solution to facilitate and automate visa checks and issues.",
+      "highlights": [
+        "Development",
+        "Database administration and versioning implementation",
+        "Architectural decisions",
+        "Vice Lead"
+      ]
+    },
+    {
+      "company": "Infopulse",
+      "position": ".Net Developer",
+      "website": "https://www.infopulse.com/",
+      "startDate": "2014-12-15",
+      "endDate": "2015-12-26",
+      "summary": "Human resources management system for a huge transcontinental corporation.",
+      "highlights": [
+        "Development",
+        "Performance improvements",
+        "Database service utilities implementation",
+        "Automation of database deployment process",
+        "Custom reporting",
+        "Reverse engineering"
+      ]
+    },
+    {
+      "company": "Globallogic",
+      "position": ".Net Developer",
+      "website": "https://www.globallogic.com",
+      "startDate": "2013-12-10",
+      "endDate": "2014-12-10",
+      "summary": "Complex backup and recovery solutions for home and business needs.",
+      "highlights": [
+        "Development",
+        "Profiling",
+        "Infrastructure re-configuration",
+        "Investigation on customer-reported edge-cases of bugs"
+      ]
+    },
+    {
+      "company": "Luxoft",
+      "position": ".Net Developer",
+      "website": "http://www.luxoft.com",
+      "startDate": "2012-09-13",
+      "endDate": "2013-12-01",
+      "summary": "Financial analytic system with abilities to detect violations in auctions.",
+      "highlights": [
+        "Development",
+        "Configuration of continuous integration and deployments automation",
+        "Database recovery",
+        "Investigation of complex data errors due to ETL process faults",
+        "Performance improvements"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cherkasy National University named after Bogdan Khmelnytsky",
+      "area": "Department of Information Technology and Biomedical Cybernetics, Chair of Mathematical and Software Support of Computer-Based Systems, Full-Time Department",
+      "studyType": "Master, Software Engineering (with honours)",
+      "startDate": "2003-09-01",
+      "endDate": "2009-06-25",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "National Academy of Science of Ukraine, Institute of Mathematical Machines and Systems Problems",
+      "area": "",
+      "studyType": "Master, Information Security in Open Networks",
+      "startDate": "2009-09-01",
+      "endDate": "2012-09-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": ".Net",
+      "level": "",
+      "keywords": [
+        "WCF",
+        "ASP NET MVC",
+        "EF",
+        "LINQ",
+        "XAMARIN",
+        "XML"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MSSQL",
+        "ORACLE",
+        "SAP HANA",
+        "CASSANDRA"
+      ]
+    },
+    {
+      "name": "CVS",
+      "level": "",
+      "keywords": [
+        "GIT",
+        "TFS",
+        "SVN"
+      ]
+    },
+    {
+      "name": "CI",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "TeamCity",
+        "Chef"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "C#",
+        "Python",
+        "Powershell",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JS",
+        "JQuery",
+        "Angular"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Micro-controllers",
+      "keywords": []
+    },
+    {
+      "name": "Intelligent home",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

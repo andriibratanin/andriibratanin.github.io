@@ -34,6 +34,20 @@
       "website": "https://www.ciklum.com/",
       "startDate": "2016-01-15",
       "endDate": "",
+      "summary": "Retail management system for a wine distributor.",
+      "highlights": [
+        "Development",
+        "Technical review of existing solution, refactoring",
+        "Performance benchmarking",
+        "Continuous deployment automation"
+      ]
+    },
+    {
+      "company": "Ciklum",
+      "position": "Senior .Net Developer",
+      "website": "https://www.ciklum.com/",
+      "startDate": "2016-01-15",
+      "endDate": "",
       "summary": "Solution to facilitate and automate visa checks and issues.",
       "highlights": [
         "Development",
@@ -120,8 +134,8 @@
         "ASP NET MVC",
         "EF",
         "LINQ",
-        "XAMARIN",
-        "XML"
+        "XML",
+        "Windows Services"
       ]
     },
     {
@@ -158,7 +172,7 @@
       "keywords": [
         "C#",
         "Python",
-        "Powershell",
+        "PowerShell",
         "Bash"
       ]
     },
@@ -169,8 +183,14 @@
         "HTML",
         "CSS",
         "JS",
-        "JQuery",
         "Angular"
+      ]
+    },
+    {
+      "name": "VM Hypervisors",
+      "level": "",
+      "keywords": [
+        "Hyper-V"
       ]
     }
   ],
@@ -190,11 +210,19 @@
   ],
   "interests": [
     {
-      "name": "Micro-controllers",
+      "name": ".Net Core",
       "keywords": []
     },
     {
-      "name": "Intelligent home",
+      "name": "Docker",
+      "keywords": []
+    },
+    {
+      "name": "Microservices",
+      "keywords": []
+    },
+    {
+      "name": "Intelligent home systems",
       "keywords": []
     }
   ],

@@ -34,6 +34,21 @@
       "website": "https://www.ciklum.com/",
       "startDate": "2016-01-15",
       "endDate": "",
+      "summary": "Solution to automate printing services with strict SLAs for a world wide known Customer.",
+      "highlights": [
+        "Technical proof-of-concepts"
+        "Development of microservices and their counterparts",
+        "Development process consulting",
+        "Review of existing solution, refactoring",
+        "Continuous deployment automation"
+      ]
+    },
+    {
+      "company": "Ciklum",
+      "position": "Senior .Net Developer",
+      "website": "https://www.ciklum.com/",
+      "startDate": "2016-01-15",
+      "endDate": "",
       "summary": "Retail management system for a wine distributor.",
       "highlights": [
         "Development",
@@ -130,12 +145,16 @@
       "name": ".Net",
       "level": "",
       "keywords": [
+        ".Net Core"
         "WCF",
         "ASP NET MVC",
+        "Web Api"
         "EF",
         "LINQ",
         "XML",
-        "Windows Services"
+        "Windows Services",
+        "Quartz",
+        "WWF"
       ]
     },
     {
@@ -152,6 +171,7 @@
       "name": "CVS",
       "level": "",
       "keywords": [
+        "VSTS",
         "GIT",
         "TFS",
         "SVN"
@@ -177,7 +197,7 @@
       ]
     },
     {
-      "name": "Web",
+      "name": "Web (secondary)",
       "level": "",
       "keywords": [
         "HTML",
@@ -210,7 +230,7 @@
   ],
   "interests": [
     {
-      "name": ".Net Core",
+      "name": ".Net Core (cross-platform)",
       "keywords": []
     },
     {
@@ -222,7 +242,7 @@
       "keywords": []
     },
     {
-      "name": "Intelligent home systems",
+      "name": "Intelligent home systems (currently exterimenting with my own based on Raspberry Pi)",
       "keywords": []
     }
   ],
